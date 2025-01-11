@@ -1,4 +1,25 @@
 ## Hi there 👋
+# 👋 Hi, I'm [Your Name]!
+
+🎓 **Data Scientist | Master's in Data Science at the University of Calgary**  
+📊 **5+ years experience in data-driven solutions**
+🌎 **Actively Seeking Summer 2025 Opportunities**  
+
+
+## 🚀 About Me
+- 💼 Over 5 years experience in delivering high-performance applications and real-world ML solutions
+- 🛠 Proficient in Python, SQL, MongoDB, FastAPI, and Docker.
+- 📊 Passionate about transforming data into actionable insights.
+- 🌱 Currently exploring advanced ML and Canadian industries.
+
+## 🛠️ Tools and Technologies
+- **Programming:** Python, R, SQL
+- **Libraries:** NumPy, Pandas, Scikit-learn, Matplotlib, Seaborn
+- **Database:** MongoDB, PostgreSQL
+- **Deployment:** FastAPI, Docker
+- **Visualization:** Tableau
+- **Data Preparation:** Feature engineering, Data Transformation
+- **Cloud Platforms**: AWS (Basic Knowledge)
 
 <!--
 **rdgandhi/rdgandhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
