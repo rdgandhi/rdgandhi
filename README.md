@@ -2,7 +2,7 @@
 # I'm Rahul Gandhi!
 
 🎓 **Data Scientist | Master's in Data Science at the University of Calgary**  
-📊 **5+ years experience in data-driven solutions**
+📊 **5+ years experience in data-driven solutions**  
 🌎 **Actively Seeking Summer 2025 Opportunities**  
 
 
