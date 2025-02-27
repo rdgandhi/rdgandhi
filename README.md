@@ -104,5 +104,5 @@
 
 ## 📝 Latest Blog Posts  
 
-- [Data-Driven Insights: Analysis of Bank Marketing Campaigns​ for Term Deposit Subscriptions]([https://medium.com/@yourusername/blog-post-1](https://medium.com/@rahuldgandhi006/data-driven-insights-analysis-of-bank-marketing-campaigns-for-term-deposit-subscriptions-d4398ca02402))
+- [Data-Driven Insights: Analysis of Bank Marketing Campaigns​ for Term Deposit Subscriptions](https://medium.com/@rahuldgandhi006/data-driven-insights-analysis-of-bank-marketing-campaigns-for-term-deposit-subscriptions-d4398ca02402)
 
