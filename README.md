@@ -2,8 +2,11 @@
 # I'm Rahul Gandhi!
 
 👨‍💻 **Data Scientist & ML Engineer**
+
 🎓 **Graduated with a Master’s in Data Science, University of Calgary**
+
 ⚡ **5+ years of experience in data-driven applications, ML, and scalable systems**
+
 🌎 **Actively seeking full-time opportunities in Data Science & Engineering**
 
 ---
@@ -22,7 +25,7 @@
 📍 Calgary, Canada  
 📅 **Masters of Data Science and Analytics**  
 **Specialization:** Data Science  
-📊 **Cumulative GPA:** 3.925/4  
+📊 **Cumulative GPA:** 3.97/4  
 
 ### 📚 Relevant Coursework  
 - Working with Data and Visualization  
