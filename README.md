@@ -1,9 +1,10 @@
 ## Hi there 👋
 # I'm Rahul Gandhi!
 
-🎓 **Data Scientist | Master's in Data Science at the University of Calgary**  
-📊 **5+ years experience in data-driven solutions**  
-🌎 **Actively Seeking Summer 2025 Opportunities**  
+👨‍💻 **Data Scientist & ML Engineer**
+🎓 **Graduated with a Master’s in Data Science, University of Calgary**
+⚡ **5+ years of experience in data-driven applications, ML, and scalable systems**
+🌎 **Actively seeking full-time opportunities in Data Science & Engineering**
 
 ---
 
@@ -19,7 +20,7 @@
 
 ### University of Calgary  
 📍 Calgary, Canada  
-📅 **Masters of Data Science and Analytics (Expected August 2025)**  
+📅 **Masters of Data Science and Analytics**  
 **Specialization:** Data Science  
 📊 **Cumulative GPA:** 3.925/4  
 
